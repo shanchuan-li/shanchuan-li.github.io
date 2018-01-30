@@ -15,11 +15,12 @@ about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-github: github.com/shanchuan-li # Add your Github handle
-linkedin: www.linkedin.com/in/shanchuan-li# Add your Linkedin handle
-phone: 4042329370 # Add your Phone number
 email: frank.li@emory.edu # Add your Email address
-
+phone: 404 232 9370 # Add your Phone number
+website: 
+linkedin: https://www.linkedin.com/in/shanchuan-li/ # Add your Linkedin handle
+github: https://github.com/shanchuan-li # Add your Github handle
+twitter: '@artemsheludko_' # Add your Twitter handle
 # Tracker
 analytics:
 
