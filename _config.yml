@@ -16,12 +16,10 @@ about-description: # Add Discription
 pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
-email: frank.li@emory.edu # Add your Email address
-phone: 404 232 9370 # Add your Phone number
-website: shanchuanli@qq.com
-linkedin: shanchuan-li # Add your Linkedin handle
 github: shanchuan-li # Add your Github handle
-twitter: 'no' # Add your Twitter handle
+linkedin: shanchuan-li # Add your Linkedin handle
+phone: 404 232 9370 # Add your Phone number
+email: frank.li@emory.edu # Add your Email address
 # Tracker
 analytics:
 
