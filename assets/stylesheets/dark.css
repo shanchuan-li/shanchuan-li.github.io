@@ -770,7 +770,7 @@ blockquote {
   padding-bottom: 3rem; }
   .page-heading .page-title {
     font-family: 'Oswald', sans-serif;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 5rem;
     line-height: 1.1;
     text-align: center;
@@ -905,7 +905,7 @@ blockquote {
   color: #323232;
   padding: 0.7rem 1.5rem; }
   .footer .copyright {
-    text-transform: uppercase;
+    text-transform: capitalize;
     text-align: center;
     font-size: 0.7rem; }
 
