@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " scikit-learn vs. Spark MLlib: Comparison Between Two Popular Machine Learning Frameworks"
+title:  "Scikit-learn vs. Spark MLlib: Comparison Between Two Popular Machine Learning Frameworks"
 description: My understanding of the trend
 img: mllib-v-spark.jpg
 date:   2018-01-31 21:30:52 +0200
