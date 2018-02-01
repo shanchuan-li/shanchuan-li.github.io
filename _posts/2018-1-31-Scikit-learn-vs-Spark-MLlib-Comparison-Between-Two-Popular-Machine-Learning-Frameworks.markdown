@@ -12,7 +12,7 @@ Python and scikit-Learn do in-memory processing and in a non-distributed way, an
 
 Overall, MLlib has a great potential but is still in development. It now includes pre-processing that works within the Spark framework. Scikit-learn supports pipeline, which provides a shortcut for data mining process, so now we have a package based on MLlib: Spark ML that supports Dataframe and pipeline. Let's say that if the machine learning packages (MLlib and ML) within Spark is as sophisticated as scikit-learn, maybe big-data-driven companies would use scikit-learn as a tool to build prototype models, and finally implement the model in Spark, just as the way Python has been replacing R in the past few years.
 
-Check out the [Scikit-Learn Documentation][scikit-learn], [Apache Spark MLlib][spark-mllib], and [Apache Spark ML][spark-ml] for more information. 
+Check out [Scikit-Learn Documentation][scikit-learn], [Apache Spark MLlib][spark-mllib], and [Apache Spark ML][spark-ml] for more information. 
 
 [scikit-learn]: http://scikit-learn.org/stable/
 [spark-mllib]: http://spark.apache.org/mllib/
