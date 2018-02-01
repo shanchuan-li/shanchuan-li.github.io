@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Scikit-learn vs. Spark MLlib: Comparison Between Two Popular Machine Learning Frameworks"
+title:  " Scikit-Learn vs. Spark MLlib: Comparison Between Two Popular Machine Learning Frameworks"
 description: You will find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 img: mllib-v-spark.jpg
 date:   2018-01-31 21:30:52 +0200
