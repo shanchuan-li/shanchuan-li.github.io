@@ -2,7 +2,7 @@
 layout: post
 title:  What is a Business Data Scientist ?
 description: Insights from My Own Experience
-img: Business-Data-Scientist.jpg
+img: Business-Data-Scientist.png
 date:   2018-03-02 21:30:52 +0200
 categories: jekyll update
 ---
@@ -10,7 +10,7 @@ It is known to all that the era of big data is coming. However, in the perspecti
 
 
 
-![My Team in 2017 Atlanta Healthcare Data Challenge]({{ "/assets/img/Data-Challange.png" | absolute_url }}) <sup><sup>Me and My Team in 2017 Atlanta Healthcare Data Challenge</sup></sup>
+![My Team in 2017 Atlanta Healthcare Data Challenge]({{ "/assets/img/Data-Challange.jpg" | absolute_url }}) <sup><sup>Me and My Team in 2017 Atlanta Healthcare Data Challenge</sup></sup>
 
 Therefore, in my opinion, instead of being Machine Learning Algorithm Engineers, Business Data Scientists should be "Business Problem Solvers". My first experience in such a role was in the 2017 Atlanta Healthcare Data Challenge. Even without specific domain knowledge, I managed to require knowledge form public health experts, collaborating with my team to understand the problem. After building the Random Forest models, we were able to structure a viable solution to improve the immunization rate of an area, a solution that meets the regional policy and achievable in a short period of time. Finally we visualized the solution and told the story in a manner that was easily digestible to our audience, who are not experts in data analytics. This approach to data science ultimately landed us in the third place in the competition. I also currently serve as a Student Data Science Consultant in my program's Capstone project, my client is one of the world's largest wholesale auto auctions. Our mission is to solve the client's headache caused by buyers’ arbitrations. My first step in the project was to site visit the company, going through the data-entry process: how the car is labeled when received by the company, services purchase by sellers, goes through workshops to be fixed, generation of condition report by inspectors. Such a process is complex and totally manual, and since my client is a marketplace provider in this process, not every part of this process is controllable by the client. I need to combine the business context with data mining, making sure the strategy is well-structured and actionable for the client. The first solution we provided is three predictive models that are plugged into different parts of the business process. The first model can capture 72% of the potential arbitrations, and the latter two models provide information regarding the service pricing for different sellers and buyers. 
 
